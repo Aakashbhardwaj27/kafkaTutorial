@@ -17,8 +17,9 @@
     <a href="https://kafka.js.org/docs/getting-started" target="_blank">Read the Docs</a>
   </p>
 </p>
-# This is a node.js and Kafaka.js based implementation
+
 - Kafka.js [Kafka](https://www.npmjs.com/package/kafkajs)
+# This is a node.js and Kafaka.js based implementation
 
 # Kafka Tutorial: Producer and Consumer Setup with Docker
 
