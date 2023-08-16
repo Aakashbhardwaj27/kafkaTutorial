@@ -38,8 +38,8 @@ docker-compose up
 ```
 
 ## Project Structure
-   Consumer: Used to consume the messages
-   Producer: Used to produce the messages
+-   Consumer: Used to consume the messages
+-   Producer: Used to produce the messages
 
 ### Navigate to Producer
 - Read About Producer : [Producer](https://kafka.js.org/docs/producer-example)
